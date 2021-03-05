@@ -113,7 +113,7 @@ def login():
 		print 50*"\033[1;96m▪"
 		
 		
-		print('          \033[1;97m[◉] \x1b[1;96mLogin LOGIN WITH FACEBOOK \033[1;97m[◉]' )
+		print('          \033[1;97m[◉] \x1b[1;96mLogin ba ba facee boke taza shaxse na  \033[1;97m[◉]' )
 		id = raw_input('          \033[1;97m[◉] \033[1;97mID/Email \x1b[1;91m: \x1b[1;92m')
 		pwd = raw_input('          \033[1;97m[◉] \033[1;97mPassword \x1b[1;91m: \x1b[1;92m')
 		tik()
